@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "uname": "json-server",
+      "email": "typicode",
+      "address": "Hajipur",
+      "phone": "9162198492",
+      "pincode": "844102"
+    },
+    {
+      "id": 5,
+      "uname": "json-server",
+      "email": "typicode",
+      "address": "Hajipur",
+      "phone": "9162198492",
+      "pincode": "844102"
+    },
+    {
+      "uname": "qklhk",
+      "email": "kjhkjh",
+      "address": "kjhkjh",
+      "phone": "sdfsdfas",
+      "pincode": "123456",
+      "id": 6
+    },
+    {
+      "uname": "Yasvant",
+      "email": "yasvantkumar.21mca@kongu.edu",
+      "address": "Hajipur",
+      "phone": "9162198492",
+      "pincode": "844102",
+      "id": 8
+    }
+  ]
+}
